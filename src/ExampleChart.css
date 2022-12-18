@@ -1,0 +1,176 @@
+.assume {
+    padding: 0%;
+    margin-left: 30%;
+    border-radius: 100%;
+    width: 40%;
+    height: 40%;
+}
+
+.adam {
+    width: 2px;
+    height: 50px;
+    margin-top: -1rem;
+    margin-right: -45rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+
+.fort {
+    background: rgb(143, 138, 138);
+    height: 9rem;
+    border-radius: 5%;
+    margin-right: 30rem;
+    float: right;
+    font-size: small;
+}
+
+.ene {
+    width: 2px;
+    height: 70px;
+    margin-top: 2rem;
+    margin-right: -55rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+
+.raid {
+    width: 2px;
+    height: 60px;
+    margin-top:-20rem;
+    margin-right: 45rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+
+.raider {
+    width: 950px;
+    height: 2px;
+    margin-top: 30px;
+    margin-left: 100rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+    
+}
+
+.fort {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.flow {
+    text-align:center;
+    margin-top: -10%;
+}
+
+.fox {
+    background: rgb(143, 138, 138);
+    width: fit-content;
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: 40rem;
+    margin-top: 4rem;
+    float: right;
+}
+
+.ruin {
+    width: 2px;
+    height: 60px;
+    margin-top: 0rem;
+    margin-right: 10rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+
+.ann {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: -0.5in;
+    margin-top: 4rem;
+    float: right;
+}
+
+.enemy {
+    width: 2px;
+    height: 60px;
+    margin-right: -21.5rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+
+.arrange {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-top: -11rem;
+    margin-right: 20rem;
+    float: right;
+}
+
+.annie {
+    width: 2px;
+    height: 60px;
+    margin-top: -15rem;
+    margin-right: 5.5rem;
+    background-color: darkblue;
+    display: inline-block;
+    float: right;
+}
+.around {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-top: -11rem;
+    float: right;  
+}
+
+.byes {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: 63rem;
+    margin-top: 4rem;
+    float: right;
+}
+
+.carr {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: 50rem;
+    margin-top: -11rem;
+    float: right;
+}
+
+.dine {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: 6rem;
+    margin-top: -11rem;
+    float: right;
+}
+
+.eff {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: -2rem;
+    margin-top: -11rem;
+    float: right;
+}
+
+.gif {
+    background: rgb(143, 138, 138);
+    height: 10rem;
+    border-radius: 5%;
+    margin-right: 15rem;
+    margin-top: -11rem;
+    float: right;
+}

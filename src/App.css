@@ -1,0 +1,29 @@
+.header {
+  background-color: rgb(161, 209, 248);
+}
+
+
+.App {
+  margin: 50px;
+}
+
+.search {
+  margin-top: 10px;
+  background-color: rgb(223, 215, 215);
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20%;
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.listItem {
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #444;
+  font-weight: 300;
+}
